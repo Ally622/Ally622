@@ -1,12 +1,15 @@
-# Hi there 👋, I'm Alisha
-
 <div align="center">
 
-# Welcome to my GitHub Profile 🤖
+# Hi 👋 I'm Alisha Cherono
 
-### 💻 Computer Science Student | Frontend Developer | UI/UX Designer | AI Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Student;Frontend+Developer;UI%2FUX+Designer;AI+Enthusiast;Always+Learning+New+Technologies" />
+<h3>
+💻 Computer Science Student <br>
+🌐 Frontend Developer <br>
+🎨 UI/UX Designer <br>
+🤖 AI Enthusiast
+</h3>
 
 </div>
 
@@ -34,13 +37,21 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools
+## 🛠️ Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ---
 
@@ -92,11 +103,11 @@
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINK">
+<a href="https://linkedin.com/in/www.linkedin.com/in/alisha-cherono-b97136360">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:cheronoally22@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
