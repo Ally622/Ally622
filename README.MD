@@ -3,14 +3,12 @@
 # Hi 👋 I'm ALISHA CHERONO
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=💡+Innovation+in+Technology;🚀+Building+Solutions+That+Matter;🌍+Creating+Impact+Through+Code"/>
 <h3>
 💻 Computer Science Student <br>
 🌐 Frontend Developer <br>
 🎨 UI/UX Designer
 </h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=💡+Innovation+in+Technology;🚀+Building+Solutions+That+Matter;🌍+Creating+Impact+Through+Code"/>
 
 </div>
 
@@ -87,16 +85,6 @@
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ally622&theme=tokyo-night"/>
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🎓 Student Scoresheet System
-- 🤖 Career Advisor Expert System
-- 📄 Invoice Construction System
-- ❓ Dean's FAQ Expert System
-- 🌐 Java Programming Projects
 
 ---
 
