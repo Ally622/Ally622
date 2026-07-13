@@ -1,15 +1,16 @@
 <div align="center">
 
-# Hi 👋 I'm Alisha Cherono
+# Hi 👋 I'm ALISHA CHERONO
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!"/>
 
 <h3>
 💻 Computer Science Student <br>
 🌐 Frontend Developer <br>
-🎨 UI/UX Designer <br>
-🤖 AI Enthusiast
+🎨 UI/UX Designer
 </h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=💡+Innovation+in+Technology;🚀+Building+Solutions+That+Matter;🌍+Creating+Impact+Through+Code"/>
 
 </div>
 
