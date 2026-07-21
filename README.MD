@@ -19,9 +19,7 @@
 - 💻 Frontend Developer
 - 🎨 UI/UX Designer
 - 🤖 Exploring Artificial Intelligence & Machine Learning
-- 🌱 Currently learning React,ML and Cloud Computing
-- 🚀 Open to collaborations on interesting projects
-
+-    Open to collaborations on interesting projects
 ---
 
 ## 🛠️ Tech Stack
