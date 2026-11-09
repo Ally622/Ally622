@@ -63,10 +63,15 @@ My interests span software development, frontend engineering, web technologies, 
 <img src="https://skillicons.dev/icons?i=mysql,flask,streamlit,xampp" alt="Frameworks and databases"/>
 </p>
 
-### Development Tools
+### Development Tools & IDEs
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,canva" alt="Development and design tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,androidstudio,figma,canva" alt="Development tools"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Kiro-AI_IDE-7B61FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Google_Antigravity-AI_Development-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ### Other Platforms & Technologies
