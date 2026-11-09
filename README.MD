@@ -1,13 +1,21 @@
-<div align="center">
+ <div align="center">
 
-# Hi 👋 I'm ALISHA CHERONO
+# Hi 👋, I'm Alisha Cherono
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!"/>
-<h3>
-💻 Computer Science Student <br>
-🌐 Frontend Developer <br>
-🎨 UI/UX Designer
-</h3>
+### Software Developer | Frontend & Web Developer | UI/UX Designer
+
+*Building digital experiences through code, creativity, and innovation.*
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Software+Developer;Frontend+%26+Web+Developer;UI%2FUX+Designer;Exploring+AI+%26+Emerging+Technologies;Turning+Ideas+Into+Digital+Solutions" alt="Typing SVG" />
+
+<p>
+  <a href="https://github.com/ally622">
+    <img src="https://img.shields.io/badge/GitHub-Ally622-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alisha-cherono-b97136360/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</p>
 
 </div>
 
@@ -15,101 +23,134 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💻 Frontend Developer
-- 🎨 UI/UX Designer
-- 🤖 Exploring Artificial Intelligence & Machine Learning
--    Open to collaborations on interesting projects
+I'm a Computer Science student and software developer passionate about building meaningful digital solutions.
+
+I enjoy combining technical problem-solving with creativity to develop functional, intuitive, and visually appealing applications.
+
+My interests span software development, frontend engineering, web technologies, and UI/UX design. I'm continuously learning, experimenting with new technologies, and turning ideas into practical projects.
+
+- 🎓 Pursuing a **BSc in Computer Science**.
+- 💻 Building web applications and software solutions.
+- 🌐 Interested in frontend development and modern web technologies.
+- 🎨 Passionate about UI/UX design and creating user-centered experiences.
+- 🤖 Exploring Artificial Intelligence and Machine Learning.
+- 🚀 Working towards becoming a well-rounded Software Engineer.
+- 🤝 Open to collaborations, internships, and opportunities to learn and contribute.
+
+## 🎯 What I Do
+
+| Area | Focus |
+|---|---|
+| Software Development | Building functional and maintainable applications |
+| Frontend Development | Developing responsive and interactive interfaces |
+| Web Development | Creating dynamic and user-friendly web applications |
+| UI/UX Design | Designing intuitive digital experiences and interfaces |
+| AI & Machine Learning | Exploring intelligent systems and emerging technologies |
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### Languages
+### Programming Languages & Web Technologies
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,php,html,css" alt="Programming languages"/>
+</p>
 
-## 🛠️ Tools & Technologies
+### Frameworks, Platforms & Databases
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,flask,streamlit,xampp" alt="Frameworks and databases"/>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+### Development Tools
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma,canva" alt="Development and design tools"/>
+</p>
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
----
+### Other Platforms & Technologies
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ally622&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ally622&layout=compact&theme=tokyonight"/>
+<p>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 💡 Areas of Interest
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ally622&theme=tokyonight"/>
-</p>
-
----
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ally622&theme=tokyo-night"/>
-</p>
+- Software Engineering & Application Development
+- Frontend Engineering & Modern Web Development
+- UI/UX Design & Prototyping
+- Artificial Intelligence & Machine Learning
+- Database Design & Management
+- Problem Solving & Technology Innovation
 
 ---
 
-## 🌍 Connect with Me
+## 📊 GitHub Statistics
 
-<p align="left">
+<div align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/alisha-cherono-b97136360">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ally622&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ally622&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ally622&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ally622&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🌐 Let's Connect
+
+I'm always interested in connecting with fellow developers, designers, innovators, and technology enthusiasts.
+
+<p>
+<a href="https://www.linkedin.com/in/alisha-cherono-b97136360/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:cheronoally22@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://github.com/ally622">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Follow_me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
-</p>
-
----
-
-## 👀 Visitors
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ally622&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💫 Building. Learning. Innovating.
 
-*"Code. Learn. Build. Repeat."*
+*"Great software is built at the intersection of logic, creativity, and purpose."*
+
+<img src="https://komarev.com/ghpvc/?username=ally622&style=flat-square&color=00C4FF&label=PROFILE+VISITORS" alt="Profile Views"/>
+
+**Thanks for stopping by! ⭐**
 
 </div>
