@@ -45,20 +45,18 @@ const alisha = {
     university: "Dedan Kimathi University of Technology",
     graduation: 2028,
 
-    passions: [
-        "Software Development",
-        "Frontend Engineering",
-        "Full-Stack Development",
-        "UI/UX Design",
-        "Artificial Intelligence"
-    ],
+   passions: [
+    "Software Development",
+    "Web Development",
+    "Full-Stack Development",
+    "UI/UX Design",
+    "Artificial Intelligence"
+],
 
-    currentlyLearning: [
-        "JavaScript",
-        "Software Engineering",
-        "Web Development",
-        "AI & Intelligent Systems"
-    ],
+currentlyLearning: [
+    "Full-Stack Development",
+    "Software Engineering"
+],
 
     mindset: "Learn. Build. Debug. Improve. Repeat.",
 
@@ -66,7 +64,7 @@ const alisha = {
 };
 ```
 
-Hey! I'm Alisha, a Computer Science student who enjoys building software, exploring technology and bringing creative ideas to life through code.
+Hey, I'm Alisha, a Computer Science student who enjoys building software, exploring technology and bringing creative ideas to life through code.
 
 I love the combination of programming and design, especially creating applications that are functional, intuitive and visually appealing.
 
@@ -142,30 +140,38 @@ I enjoy developing practical applications that solve problems and help me grow a
 
 ### Featured repositories
 
-<div align="center">
+### Featured Projects
 
-<a href="https://github.com/Ally622/Course-Registration-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ally622&repo=Course-Registration-System&theme=transparent&hide_border=true&title_color=FF83B8&icon_color=FF4F9A&text_color=E9D9E2&bg_color=0B1020" alt="Course Registration System"/>
-</a>
+\<div align="center">
 
-<a href="https://github.com/Ally622/Compiler_Construction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Ally622&repo=Compiler_Construction&theme=transparent&hide_border=true&title_color=FF83B8&icon_color=FF4F9A&text_color=E9D9E2&bg_color=0B1020" alt="Compiler Construction"/>
-</a>
+\<a href="[https://github.com/Ally622/Course-Registration-System](https://github.com/Ally622/Course-Registration-System)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Ally622&repo=Course-Registration-System&theme=transparent&hide_border=true&title_color=FF83B8&icon_color=FF4F9A&text_color=E9D9E2&bg_color=0B1020](https://github-readme-stats.vercel.app/api/pin/?username=Ally622\&repo=Course-Registration-System\&theme=transparent\&hide_border=true\&title_color=FF83B8\&icon_color=FF4F9A\&text_color=E9D9E2\&bg_color=0B1020)" alt="Student Course Registration System with M-Pesa Integration"/> \</a>
 
-</div>
+\<a href="[https://github.com/Ally622/DeKUT-Student-Registration-System](https://github.com/Ally622/DeKUT-Student-Registration-System)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Ally622&repo=DeKUT-Student-Registration-System&theme=transparent&hide_border=true&title_color=FF83B8&icon_color=FF4F9A&text_color=E9D9E2&bg_color=0B1020](https://github-readme-stats.vercel.app/api/pin/?username=Ally622\&repo=DeKUT-Student-Registration-System\&theme=transparent\&hide_border=true\&title_color=FF83B8\&icon_color=FF4F9A\&text_color=E9D9E2\&bg_color=0B1020)" alt="DeKUT Student Registration System"/> \</a>
 
-### Other projects
+\<a href="[https://github.com/Ally622/Event-Planning-Management-System](https://github.com/Ally622/Event-Planning-Management-System)"> \<img src="[https://github-readme-stats.vercel.app/api/pin/?username=Ally622&repo=Event-Planning-Management-System&theme=transparent&hide_border=true&title_color=FF83B8&icon_color=FF4F9A&text_color=E9D9E2&bg_color=0B1020](https://github-readme-stats.vercel.app/api/pin/?username=Ally622\&repo=Event-Planning-Management-System\&theme=transparent\&hide_border=true\&title_color=FF83B8\&icon_color=FF4F9A\&text_color=E9D9E2\&bg_color=0B1020)" alt="Event Planning Management System"/> \</a>
 
-| Project | Description | Technologies |
-|---|---|---|
-| EventEase | Event management system | PHP, MySQL |
-| Smart FAQ Assistant | University FAQ assistant | Python, Flask, NLTK, Twilio |
-| Maize Disease Diagnosis | Plant disease diagnosis application | Python, Streamlit, MariaDB |
-| Intelligent Healthcare Assistant | Intelligent diagnostic system | AI, ML, Bayesian Networks |
+\</div>
+
+### Other Main Projects
+
+| Project   | Description                                                | Technologies        |
+| --------- | ---------------------------------------------------------- | ------------------- |
+| My Ikigai | Personal productivity and self-development web application | PHP, MySQL, MariaDB |
+| LendFlow  | Lending management system with a React-based frontend      | React               |
+
+### Other Projects
+
+| Project                                                                       | Description                              | Technologies                            |
+| ----------------------------------------------------------------------------- | ---------------------------------------- | --------------------------------------- |
+| Intelligent Healthcare Assistant                                              | Intelligent healthcare diagnostic system | AI, Machine Learning, Bayesian Networks |
+| [NovelNest](https://github.com/Ally622/NovelNest)                             | Stationery management web application    | PHP, MySQL                              |
+| [Smart FAQ Assistant](https://github.com/Ally622/SMART-FAQ-ASSISTANT-PROJECT) | University FAQ assistant                 | Python, Flask, NLTK, Twilio             |
+| [Maize Diseases System](https://github.com/Ally622/Maize_diseases-System)     | Maize disease diagnosis system           | Python, Streamlit, MariaDB              |
 
 *Always building, experimenting and learning something new.*
 
 ---
+
 
 ## 🎓 05 | EDUCATION & CERTIFICATIONS
 
