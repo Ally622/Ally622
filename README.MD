@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:30152D,100:FF4F9A&height=190&section=header&text=ALISHA%20CHERONO&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20DEVELOPER%20%7C%20CREATIVE%20TECH%20ENTHUSIAST&descSize=12&descAlignY=60" width="100%" alt="Alisha Cherono developer banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,50:30152D,100:FF4F9A&height=190&section=header&text=ALISHA%20CHERONO&fontSize=45&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=COMPUTER%20SCIENCE%20MAJOR&descSize=15&descAlignY=60" width="100%" alt="Alisha Cherono - Computer Science Major"/>
 
 <br/>
 
