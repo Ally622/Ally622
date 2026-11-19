@@ -10,7 +10,7 @@
 
 **Software Developer | Frontend & Full-Stack Development | UI/UX Enthusiast**
 
-\<img src="./assets/tech_girlie.png" width="420" alt="Code Like a Girl - Girl coding at her computer"/>
+\<img src="./assets/tech_girlie.png" width="420" alt="Girl coding at her computer"/>
 
 \<br/>
 
@@ -18,15 +18,7 @@
 
 \<br/>\<br/>
 
-\<a href="[https://github.com/Ally622](https://github.com/Ally622)">
-\<img src="[https://img.shields.io/badge/GitHub-151D32?style=for-the-badge&logo=github&logoColor=FF83B8](https://img.shields.io/badge/GitHub-151D32?style=for-the-badge\&logo=github\&logoColor=FF83B8)" alt="GitHub"/>
-\</a>
-\<a href="[https://www.linkedin.com/in/alisha-cherono-b97136360/](https://www.linkedin.com/in/alisha-cherono-b97136360/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-151D32?style=for-the-badge&logo=linkedin&logoColor=FF83B8](https://img.shields.io/badge/LinkedIn-151D32?style=for-the-badge\&logo=linkedin\&logoColor=FF83B8)" alt="LinkedIn"/>
-\</a>
-\<a href="mailto\:cheronoally22\@gmail.com">
-\<img src="[https://img.shields.io/badge/Email-151D32?style=for-the-badge&logo=gmail&logoColor=FF83B8](https://img.shields.io/badge/Email-151D32?style=for-the-badge\&logo=gmail\&logoColor=FF83B8)" alt="Email"/>
-\</a>
+\<a href="[https://github.com/Ally622](https://github.com/Ally622)"> \<img src="[https://img.shields.io/badge/GitHub-151D32?style=for-the-badge&logo=github&logoColor=FF83B8](https://img.shields.io/badge/GitHub-151D32?style=for-the-badge\&logo=github\&logoColor=FF83B8)" alt="GitHub"/> \</a> \<a href="[https://www.linkedin.com/in/alisha-cherono-b97136360/](https://www.linkedin.com/in/alisha-cherono-b97136360/)"> \<img src="[https://img.shields.io/badge/LinkedIn-151D32?style=for-the-badge&logo=linkedin&logoColor=FF83B8](https://img.shields.io/badge/LinkedIn-151D32?style=for-the-badge\&logo=linkedin\&logoColor=FF83B8)" alt="LinkedIn"/> \</a> \<a href="mailto\:cheronoally22\@gmail.com"> \<img src="[https://img.shields.io/badge/Email-151D32?style=for-the-badge&logo=gmail&logoColor=FF83B8](https://img.shields.io/badge/Email-151D32?style=for-the-badge\&logo=gmail\&logoColor=FF83B8)" alt="Email"/> \</a>
 
 \<br/>\<br/>
 
@@ -125,7 +117,8 @@ I'm passionate about continuous learning, problem-solving, innovation and discov
 
 \<br/>\<br/>
 
-\<img src="[https://img.shields.io/badge/MariaDB-151D32?style=for-the-badge&logo=mariadb&logoColor=FF83B8](https://img.shields.io/badge/MariaDB-151D32?style=for-the-badge\&logo=mariadb\&logoColor=FF83B8)" alt="MariaDB"/> \<img src="[https://img.shields.io/badge/Firebase_Realtime_Database-151D32?style=for-the-badge&logo=firebase&logoColor=FF83B8](https://img.shields.io/badge/Firebase_Realtime_Database-151D32?style=for-the-badge\&logo=firebase\&logoColor=FF83B8)" alt="Firebase Realtime Database"/>
+\<img src="[https://img.shields.io/badge/MariaDB-151D32?style=for-the-badge&logo=mariadb&logoColor=FF83B8](https://img.shields.io/badge/MariaDB-151D32?style=for-the-badge\&logo=mariadb\&logoColor=FF83B8)" alt="MariaDB"/>
+\<img src="[https://img.shields.io/badge/Firebase_Realtime_Database-151D32?style=for-the-badge&logo=firebase&logoColor=FF83B8](https://img.shields.io/badge/Firebase_Realtime_Database-151D32?style=for-the-badge\&logo=firebase\&logoColor=FF83B8)" alt="Firebase Realtime Database"/>
 
 \</div>
 
@@ -137,7 +130,12 @@ I'm passionate about continuous learning, problem-solving, innovation and discov
 
 \<br/>\<br/>
 
-\<img src="[https://img.shields.io/badge/PowerShell-151D32?style=for-the-badge&logo=powershell&logoColor=FF83B8](https://img.shields.io/badge/PowerShell-151D32?style=for-the-badge\&logo=powershell\&logoColor=FF83B8)" alt="PowerShell"/> \<img src="[https://img.shields.io/badge/XAMPP-151D32?style=for-the-badge&logo=xampp&logoColor=FF83B8](https://img.shields.io/badge/XAMPP-151D32?style=for-the-badge\&logo=xampp\&logoColor=FF83B8)" alt="XAMPP"/> \<img src="[https://img.shields.io/badge/Vercel-151D32?style=for-the-badge&logo=vercel&logoColor=FF83B8](https://img.shields.io/badge/Vercel-151D32?style=for-the-badge\&logo=vercel\&logoColor=FF83B8)" alt="Vercel"/> \<img src="[https://img.shields.io/badge/Netlify-151D32?style=for-the-badge&logo=netlify&logoColor=FF83B8](https://img.shields.io/badge/Netlify-151D32?style=for-the-badge\&logo=netlify\&logoColor=FF83B8)" alt="Netlify"/> \<img src="[https://img.shields.io/badge/Google_Colab-151D32?style=for-the-badge&logo=googlecolab&logoColor=FF83B8](https://img.shields.io/badge/Google_Colab-151D32?style=for-the-badge\&logo=googlecolab\&logoColor=FF83B8)" alt="Google Colab"/> \<img src="[https://img.shields.io/badge/Kaggle-151D32?style=for-the-badge&logo=kaggle&logoColor=FF83B8](https://img.shields.io/badge/Kaggle-151D32?style=for-the-badge\&logo=kaggle\&logoColor=FF83B8)" alt="Kaggle"/>
+\<img src="[https://img.shields.io/badge/PowerShell-151D32?style=for-the-badge&logo=powershell&logoColor=FF83B8](https://img.shields.io/badge/PowerShell-151D32?style=for-the-badge\&logo=powershell\&logoColor=FF83B8)" alt="PowerShell"/>
+\<img src="[https://img.shields.io/badge/XAMPP-151D32?style=for-the-badge&logo=xampp&logoColor=FF83B8](https://img.shields.io/badge/XAMPP-151D32?style=for-the-badge\&logo=xampp\&logoColor=FF83B8)" alt="XAMPP"/>
+\<img src="[https://img.shields.io/badge/Vercel-151D32?style=for-the-badge&logo=vercel&logoColor=FF83B8](https://img.shields.io/badge/Vercel-151D32?style=for-the-badge\&logo=vercel\&logoColor=FF83B8)" alt="Vercel"/>
+\<img src="[https://img.shields.io/badge/Netlify-151D32?style=for-the-badge&logo=netlify&logoColor=FF83B8](https://img.shields.io/badge/Netlify-151D32?style=for-the-badge\&logo=netlify\&logoColor=FF83B8)" alt="Netlify"/>
+\<img src="[https://img.shields.io/badge/Google_Colab-151D32?style=for-the-badge&logo=googlecolab&logoColor=FF83B8](https://img.shields.io/badge/Google_Colab-151D32?style=for-the-badge\&logo=googlecolab\&logoColor=FF83B8)" alt="Google Colab"/>
+\<img src="[https://img.shields.io/badge/Kaggle-151D32?style=for-the-badge&logo=kaggle&logoColor=FF83B8](https://img.shields.io/badge/Kaggle-151D32?style=for-the-badge\&logo=kaggle\&logoColor=FF83B8)" alt="Kaggle"/>
 
 \</div>
 
@@ -145,7 +143,8 @@ I'm passionate about continuous learning, problem-solving, innovation and discov
 
 \<div align="center">
 
-\<img src="[https://img.shields.io/badge/Kiro-151D32?style=for-the-badge&logo=amazonaws&logoColor=FF83B8](https://img.shields.io/badge/Kiro-151D32?style=for-the-badge\&logo=amazonaws\&logoColor=FF83B8)" alt="Kiro"/> \<img src="[https://img.shields.io/badge/Antigravity-151D32?style=for-the-badge&logo=google&logoColor=FF83B8](https://img.shields.io/badge/Antigravity-151D32?style=for-the-badge\&logo=google\&logoColor=FF83B8)" alt="Antigravity"/>
+\<img src="[https://img.shields.io/badge/Kiro-151D32?style=for-the-badge&logo=amazonaws&logoColor=FF83B8](https://img.shields.io/badge/Kiro-151D32?style=for-the-badge\&logo=amazonaws\&logoColor=FF83B8)" alt="Kiro"/>
+\<img src="[https://img.shields.io/badge/Antigravity-151D32?style=for-the-badge&logo=google&logoColor=FF83B8](https://img.shields.io/badge/Antigravity-151D32?style=for-the-badge\&logo=google\&logoColor=FF83B8)" alt="Antigravity"/>
 
 \</div>
 
@@ -211,7 +210,7 @@ I enjoy developing practical applications that solve problems, explore new ideas
 
 ### Education
 
-**\<a href="[https://www.linkedin.com/school/3285579/](https://www.linkedin.com/school/3285579/)">Dedan Kimathi University of Technology (DeKUT)\</a>**
+[**Dedan Kimathi University of Technology (DeKUT)**](https://www.linkedin.com/school/3285579/)
 
 Bachelor of Science in Computer Science
 
@@ -229,19 +228,19 @@ Activities and Societies: Badminton, Wildlife Club
 
 **I2B Innovation Weekend V**
 
-\<text>Dedan Kimathi University of Technology | Issued July 2026\</text>
+Dedan Kimathi University of Technology | Issued July 2026
 
 Participated in the I2B Innovation Weekend V, held on 10th–11th July 2026 at Dedan Kimathi University of Technology. This intensive overnight innovation bootcamp focused on design thinking, ideation, prototype development, mentorship and startup pitching. It strengthened my teamwork, problem-solving, leadership and entrepreneurial skills while providing practical experience in developing innovative solutions to real-world challenges.
 
 **BuildWise Innovation Sprint**
 
-\<text>Dedan Kimathi University of Technology | Issued June 2026\</text>
+Dedan Kimathi University of Technology | Issued June 2026
 
 Participated in the BuildWise Innovation Challenge at Dedan Kimathi University of Technology, collaborating with a team to identify real-world problems, develop innovative technology-based solutions and present prototypes. The experience involved research, design thinking, problem-solving, teamwork and entrepreneurship.
 
 **AI Essentials for Professionals**
 
-\<text>Moringa School | Issued June 2026\</text>
+Moringa School | Issued June 2026
 
 Successfully completed the AI Essentials for Professionals course, gaining foundational knowledge in Artificial Intelligence, Generative AI, prompt engineering and AI-powered productivity tools.
 
@@ -264,7 +263,8 @@ I believe continuous learning, innovation and collaboration are important parts 
 
 \<br/>\<br/>
 
-\<img src="[https://img.shields.io/badge/Full_Stack_Development-151D32?style=flat-square&logo=react&logoColor=FF83B8](https://img.shields.io/badge/Full_Stack_Development-151D32?style=flat-square\&logo=react\&logoColor=FF83B8)" alt="Full Stack Development"/> \<img src="[https://img.shields.io/badge/Software_Engineering-151D32?style=flat-square&logo=git&logoColor=FF83B8](https://img.shields.io/badge/Software_Engineering-151D32?style=flat-square\&logo=git\&logoColor=FF83B8)" alt="Software Engineering"/>
+\<img src="[https://img.shields.io/badge/Full_Stack_Development-151D32?style=flat-square&logo=react&logoColor=FF83B8](https://img.shields.io/badge/Full_Stack_Development-151D32?style=flat-square\&logo=react\&logoColor=FF83B8)" alt="Full Stack Development"/>
+\<img src="[https://img.shields.io/badge/Software_Engineering-151D32?style=flat-square&logo=git&logoColor=FF83B8](https://img.shields.io/badge/Software_Engineering-151D32?style=flat-square\&logo=git\&logoColor=FF83B8)" alt="Software Engineering"/>
 
 \</div>
 
@@ -318,13 +318,9 @@ I'm always happy to connect with fellow developers, designers, innovators and te
 
 \<br/>
 
-\<a href="[https://github.com/Ally622](https://github.com/Ally622)">
-\<img src="[https://img.shields.io/badge/GitHub-Explore_My_Work-151D32?style=for-the-badge&logo=github&logoColor=FF83B8](https://img.shields.io/badge/GitHub-Explore_My_Work-151D32?style=for-the-badge\&logo=github\&logoColor=FF83B8)" alt="Explore my GitHub"/>
-\</a>
+\<a href="[https://github.com/Ally622](https://github.com/Ally622)"> \<img src="[https://img.shields.io/badge/GitHub-Explore_My_Work-151D32?style=for-the-badge&logo=github&logoColor=FF83B8](https://img.shields.io/badge/GitHub-Explore_My_Work-151D32?style=for-the-badge\&logo=github\&logoColor=FF83B8)" alt="Explore my GitHub"/> \</a>
 
-\<a href="[https://www.linkedin.com/in/alisha-cherono-b97136360/](https://www.linkedin.com/in/alisha-cherono-b97136360/)">
-\<img src="[https://img.shields.io/badge/LinkedIn-Let](https://img.shields.io/badge/LinkedIn-Let)'s_Connect-151D32?style=for-the-badge&logo=linkedin&logoColor=FF83B8" alt="Connect on LinkedIn"/>
-\</a>
+\<a href="[https://www.linkedin.com/in/alisha-cherono-b97136360/](https://www.linkedin.com/in/alisha-cherono-b97136360/)"> \<img src="[https://img.shields.io/badge/LinkedIn-Lets_Connect-151D32?style=for-the-badge&logo=linkedin&logoColor=FF83B8](https://img.shields.io/badge/LinkedIn-Lets_Connect-151D32?style=for-the-badge\&logo=linkedin\&logoColor=FF83B8)" alt="Connect on LinkedIn"/> \</a>
 
 \<a href="mailto\:cheronoally22\@gmail.com">
 \<img src="[https://img.shields.io/badge/Email-Say_Hello-151D32?style=for-the-badge&logo=gmail&logoColor=FF83B8](https://img.shields.io/badge/Email-Say_Hello-151D32?style=for-the-badge\&logo=gmail\&logoColor=FF83B8)" alt="Send me an email"/>
